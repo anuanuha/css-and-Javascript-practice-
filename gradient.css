@@ -1,0 +1,25 @@
+/* p{
+    text-align: center;
+    text-decoration: wavy;
+    text-transform: capitalize;
+    text-decoration-line: underline;
+     text-shadow: -20px 20px 2px; 
+     text-shadow: -80px -60px 5px blue; 
+    text-decoration-style: wavy;
+    text-size-adjust: 20px; 
+    text-decoration-color: aqua;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    letter-spacing: 30px;
+    line-height: 70px;
+
+}  */
+div{
+    
+    border: 5px solid pink; 
+    height: 500px;
+    background-image: linear-gradient(black, green 30%, red ,yellow, pink);  
+    
+
+}

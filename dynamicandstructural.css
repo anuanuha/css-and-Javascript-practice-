@@ -1,0 +1,57 @@
+a:link{
+    background-color: aqua;
+}
+a:visited{
+    background-color: red ;
+}
+a:hover{
+    background-color: black;
+}
+a:active{
+    background-color: blueviolet;
+}
+p:first-child{
+    color: blueviolet;
+}
+p:last-child{
+    color: aqua;
+}
+p:nth-child(2){
+    color: blue;
+}
+/* h1::first-line{
+    background-color: blue;
+} */
+h2::first-letter{
+    color: aqua;
+}
+h3::after{
+     content:url("../images/Bairavaa\ Video\ Songs\ _\ Nillayo\ Video\ Song\ _\ Vijay");
+}
+h4::before{
+    content:url("../images/Bairavaa\ Video\ Songs\ _\ Nillayo\ Video\ Song\ _\ Vijay\ \(1\)");
+}
+h5::marker{
+    color: brown;
+}
+h6::selection{
+    color: blueviolet;
+}
+[target="max"]{
+    background-color: aquamarine;
+}
+ /* [title~="man"]{
+    background-color: black;
+}
+[title="nan"]{
+    background-color: blueviolet;
+}
+[class^="nan"]{
+    background-color: blanchedalmond;
+}
+[class$="man"]{
+    background-color: blanchedalmond;
+}
+[class*="nan"]{
+    background-color: blanchedalmond;
+} */

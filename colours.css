@@ -1,0 +1,26 @@
+body{
+    background-image:url(../images/wallpaper1.jpg);
+}  
+ div{
+    border: 2px solid green;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(100,100, 100,0.5);
+      background-color: rgba(255, 255, 0, 0.5);
+      background-color: #32a852;
+
+} 
+h1{
+    border: 2px solid red;
+    border-radius: 20px;
+    border-color: aqua;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 100px;
+    width: 300px;
+    border-top: 3px solid red;
+    line-height: 30px;
+    letter-spacing: 20px;
+    font-family: cursive;
+}
+
